@@ -10,6 +10,11 @@ The project does not use a database. Instead, it fetches the required Thirukkura
 
 For example, when the user enters **52**, the application fetches and displays Thirukkural number 52 and its meanings.
 
+## 🖥️ User Interface
+
+The following screenshot shows the user interface of the Thirukkural Finder application.
+[View UI Screenshot](https://drive.google.com/file/d/12nDChC-Jr5JauzgX-poUJvenV3k4_g91/view?usp=sharing)
+
 ## 🎯 Objectives
 
 - To develop a simple Thirukkural searching application.
